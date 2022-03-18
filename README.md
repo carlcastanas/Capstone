@@ -3,8 +3,8 @@
 
 ## Table of Contents
 
-- [UI Graphics](#ui-graphics)
-- [Fonts](#fonts)
+- [Website](#Website)
+- [Web App](#Web-App)
 - [Colors](#colors)
 - [Icons](#icons)
 - [Logos](#logos)
