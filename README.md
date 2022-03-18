@@ -35,7 +35,7 @@
 - [Chrome Extensions](#chrome-extensions)
 - [Others](#others)
 
-## UI Graphics
+## Capstone A
 
 >Websites and resources with modern UI components in different formats such as PSD, Sketch, Figma, etc. They are great for ideas for web components/UI
 
