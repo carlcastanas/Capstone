@@ -92,7 +92,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-## Fonts
+## Web App
 
 >Websites that offer free fonts as well as font-based tools
 
