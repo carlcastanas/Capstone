@@ -5,7 +5,7 @@
 
 - [Website](#Website)
 - [Web App](#Web-App)
-- [Colors](#colors)
+- [Software](#Software)
 - [Icons](#icons)
 - [Logos](#logos)
 - [Favicons](#favicons)
@@ -137,7 +137,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-## Colors
+## Software
 
 >Websites and resources that help with choices related to colors
 
